@@ -1,6 +1,6 @@
 ![Banner](https://github.com/joseoliveira19451961/joseoliveira19451961/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm Jose Oliveira</h1>
-<h3 align="center">Physics Teacher and Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm Luis Nagano</h1>
+<h3 align="center">Data Scientist and Bioinformatician</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseoliveira19451961&label=Profile%20views&color=0e75b6&style=flat" alt="joseoliveira19451961" /> </p>
 
