@@ -1,3 +1,4 @@
+![Banner](https://github.com/joseoliveira19451961/joseoliveira19451961/blob/main/Black%20%26%20White%20Modern%20Minimalist%20Data%20Analyst%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Jose Oliveira</h1>
 <h3 align="center">Physics Teacher and Data Scientist</h3>
 
